@@ -1,7 +1,4 @@
-![Uploading Screenshot 2026-10-17 105404.png…]()
-<img width="646" height="553" alt="Screenshot 2026-10-17 105830" src="https://github.com/user-attachments/assets/a4f56787-432f-42bf-adb9-d0568e2d4eee" />
-<img width="646" height="553" alt="Screenshot 2026-10-17 110510" src="https://github.com/user-attachments/assets/e54859ba-36a8-443f-977c-5d044ee920e6" />
-<img width="646" height="553" alt="Screenshot 2026-10-17 110510" src="https://github.com/user-attachments/assets/2757b443-b922-4209-8080-5a0671fc825b" />
+
 # Operations_Network_Fortress
 A simulated enterprise network infrastructure project built with Cisco Packet Tracer, featuring VLAN segmentation, inter-VLAN routing, OSPF, network security, DHCP, DNS, and centralized network management.
 
@@ -78,12 +75,14 @@ Explored controller-based wireless networking using a WLC and lightweight access
 <img width="676" height="762" alt="Screenshot 2026-10-20 180920" src="https://github.com/user-attachments/assets/eb8cb5f5-a70c-4105-b82c-cfd58329127e" />
 <img width="676" height="762" alt="Screenshot 2026-10-20 180730" src="https://github.com/user-attachments/assets/5634e62a-ac88-43ee-a40c-20d9833d7ba8" />
 <img width="1360" height="768" alt="Screenshot 2026-10-20 171814" src="https://github.com/user-attachments/assets/49c75421-9880-4c4b-96b5-0b6816418412" />
-
+<img width="646" height="553" alt="Screenshot 2026-10-17 105830" src="https://github.com/user-attachments/assets/a4f56787-432f-42bf-adb9-d0568e2d4eee" />
+<img width="646" height="553" alt="Screenshot 2026-10-17 110510" src="https://github.com/user-attachments/assets/e54859ba-36a8-443f-977c-5d044ee920e6" />
+<img width="646" height="553" alt="Screenshot 2026-10-17 110510" src="https://github.com/user-attachments/assets/2757b443-b922-4209-8080-5a0671fc825b" />
 
 
 ## Lessons Learned
 
-This project provides hands-on experience with enterprise network design, configuration, troubleshooting, routing, switching, and network security.
+This project provides a little experience of enterprise network design using cisco's systems , configuration, troubleshooting, routing, switching, and network security.
 
 ## Future Improvements
 
