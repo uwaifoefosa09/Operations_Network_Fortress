@@ -1,3 +1,7 @@
+![Uploading Screenshot 2026-10-17 105404.png…]()
+<img width="646" height="553" alt="Screenshot 2026-10-17 105830" src="https://github.com/user-attachments/assets/a4f56787-432f-42bf-adb9-d0568e2d4eee" />
+<img width="646" height="553" alt="Screenshot 2026-10-17 110510" src="https://github.com/user-attachments/assets/e54859ba-36a8-443f-977c-5d044ee920e6" />
+<img width="646" height="553" alt="Screenshot 2026-10-17 110510" src="https://github.com/user-attachments/assets/2757b443-b922-4209-8080-5a0671fc825b" />
 # Operations_Network_Fortress
 A simulated enterprise network infrastructure project built with Cisco Packet Tracer, featuring VLAN segmentation, inter-VLAN routing, OSPF, network security, DHCP, DNS, and centralized network management.
 
